@@ -11,7 +11,7 @@ Don't worry about script database, SQL script is incorparated with  PHP script. 
 
 But, you may also run  the SQL script found in `./db` folder.
 
-    As beginner to develop with PHP, you'll find some bug, be free to fixed it, also some of base validation.
+    As beginner to develop with PHP, you'll find some bug, be free to fixed it, also some  basic validation.
 .
 
     Don't care about Inc's Name used to designate to app, you may change it for another one..
